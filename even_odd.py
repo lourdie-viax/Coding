@@ -1,5 +1,5 @@
+#Program created to determine if a number is even or odd 
 #Even and Odd Number Checker with Validation
-
 while True:
 try:
 number = int(input("Enter a number: "))
